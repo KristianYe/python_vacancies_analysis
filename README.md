@@ -1,1 +1,1 @@
-"# python_vacancies_analysis" 
+# python_vacancies_analysis 
